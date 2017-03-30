@@ -1,7 +1,8 @@
 # Simple math operations (C/C++, Python) by Prometheus111
 
-### Natural (Python)
+### The natural number divisors (Python)
 This code can help you .... \
+There is two version of this code: English and Russian. \
 \
 Download this repository: 
 Download only source code (EN): 
