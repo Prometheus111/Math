@@ -5,7 +5,7 @@ File: 1_NaturalNumberDivisors.py
 This code can help you to calculate the number of natural divisors of the number x. \
 \
 Download source code: https://github.com/Prometheus111/Math/blob/master/1_NaturalNumberDivisors.py \
-\
+
 ### 2. The natural number divisors (Python)
 File: 2_MultiplicityNumber.py
 This code can help you to calculate the number of natural divisors of the number x. \
