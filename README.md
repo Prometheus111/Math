@@ -1,4 +1,4 @@
-# Simple math operations (C/C++, Python) by Prometheus111
+# Math (C, C++, Python) by Prometheus111
 
 ### 1. The natural number divisors (Python)
 File: 1_NaturalNumberDivisors.py
