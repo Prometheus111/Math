@@ -1,3 +1,4 @@
+#1_NaturalNumberDivisors.py
 #calculate the number of natural divisors of the number x
 #(include 1 and the number itself; x <= 30000)
 x = int(input('Enter the number x (x <= 30000): '))     #input number x
